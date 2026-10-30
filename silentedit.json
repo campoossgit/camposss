@@ -3,7 +3,7 @@
   "name": "Silent Edit by Camposss",
   "description": "Silent Edit plugin for Valenced",
   "plugins": {
-    "silent-edit": {
+    "coder.silent-edit": {
       "name": "Silent Edit",
       "description": "Edit messages without showing (edited) on the message.",
       "author": "camposss <1340038288429547581>",
